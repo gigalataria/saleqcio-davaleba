@@ -1,0 +1,49 @@
+.p1{
+    font-size: 12px;
+    letter-spacing: 1px;
+    border-bottom: 20px yellow dashed;
+    border-left: 20px green solid;
+    border-top: green solid 20px;
+    border-right: 20px green solid;
+    background-color: black;
+    color: red;
+    margin: 70px;
+    height: 150px;
+    padding: 20px;
+}
+.p-container{
+    display: flex;
+
+}
+
+.p2{
+    background-color: yellow;
+    padding: 20px;
+    border-bottom: 10px red solid;
+    border-left: solid black 10px;
+    border-right: solid black 10px;
+    border-top: solid black 10px;
+    margin: 33px;
+    width: 33%;
+}
+
+.p3{
+    background-color: yellow;
+    padding: 20px;
+    border-bottom: 10px green solid;
+    border-left: solid black 10px;
+    border-right: solid black 10px;
+    border-top: solid black 10px;
+    margin: 33px;
+    width: 33%;
+}
+.p4{
+    background-color: yellow;
+    padding: 20px;
+    border-bottom: 10px blue solid;
+    border-left: solid black 10px;
+    border-right: solid black 10px;
+    border-top: solid black 10px;
+    margin: 33px;
+    width: 33%;
+}
